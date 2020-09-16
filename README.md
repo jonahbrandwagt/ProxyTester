@@ -8,6 +8,6 @@
 ## Configure
 Add proxies one per line in format ip:port:user:pass to `proxies.txt`
 
-## Outro
+## End
 Special thanks to: https://github.com/whatbotisthis (main repository)
 Edited by: Jonah Brandwagt
