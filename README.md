@@ -2,12 +2,12 @@
 ## Install
 `npm install`
 
+## Run
+`npm start`
 
 ## Configure
 Add proxies one per line in format ip:port:user:pass to `proxies.txt`
 
-Modify domain, delay, threshold, and timeout settings in `config.js`
-
-
-## Run
-`npm start`
+## Outro
+Special thanks to: https://github.com/whatbotisthis (main repository)
+Edited by: Jonah Brandwagt
