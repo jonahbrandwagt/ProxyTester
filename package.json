@@ -1,0 +1,20 @@
+{
+  "name": "proxytester",
+  "version": "1.0.0",
+  "description": "Javascript http proxy tester (user:password accepted)",
+  "main": "start.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonahbrandwagt/ProxyTester.git"
+  },
+  "author": "JonahBrandwagt - whatbotisthis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonahbrandwagt/ProxyTester/issues"
+  },
+  "homepage": "https://github.com/jonahbrandwagt/ProxyTester#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
